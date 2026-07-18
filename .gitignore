@@ -21,4 +21,4 @@ backend/.env
 .idea/
 
 # Claude Code local tooling (personal, not project config)
-.claude/settings.local.json
+.claude/
