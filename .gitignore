@@ -1,0 +1,24 @@
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/.env*.local
+
+# Python / FastAPI
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.venv/
+backend/venv/
+backend/.pytest_cache/
+backend/*.egg-info/
+backend/.env
+
+# General
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Claude Code local tooling (personal, not project config)
+.claude/settings.local.json
